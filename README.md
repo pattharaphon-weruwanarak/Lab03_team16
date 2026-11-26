@@ -1,5 +1,14 @@
 # Lab03_team16
 
+## `cleaner.py`
+
+### สมาชิก 3
+
+ฟังก์ชัน `clean_text(text)` ตัดช่องว่างหน้า–หลัง และยุบช่องว่างซ้ำให้เหลือช่องเดียว
+
+- `clean_text("  hello   world ")` → `"hello world"`
+- `clean_text("a  b ")` → `"a b"`
+
 ## `reverser.py`
 
 ### สมาชิก 2
